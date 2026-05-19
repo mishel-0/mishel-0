@@ -17,7 +17,7 @@
 
 I'm a **Full-Stack Developer** passionate about building **AI-powered applications** and **enterprise systems** that solve real-world problems. I specialize in architecting scalable platforms from the ground up — from AI-driven healthcare diagnostics to comprehensive ERP systems.
 
-- 🔭 Currently building: **Nalakath Holdings V2** — a Next.js 15 ERP with AI insights
+- 🔭 Building: **Slack AI Bot** — AI-powered Slack assistant for team productivity & automation
 - 🌱 Deepening expertise in **Genkit AI**, **Firebase**, and **cloud architecture**
 - 💡 Passionate about **full-stack development**, **machine learning**, and **clean architecture**
 - 🌍 Based in India — open to **remote opportunities worldwide**
@@ -61,6 +61,19 @@ I'm a **Full-Stack Developer** passionate about building **AI-powered applicatio
 <table>
   <tr>
     <td width="50%">
+      <h3 align="center">🤖 Slack AI Bot</h3>
+      <p align="center">
+        <a href="https://github.com/mishel-0/slack-ai-bot" target="_blank">
+          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github" />
+        </a>
+        <a href="https://github.com/mishel-0/slack-ai-bot#-quick-start-5-minutes" target="_blank">
+          <img src="https://img.shields.io/badge/Deploy_Guide-4A154B?style=for-the-badge&logo=slack" />
+        </a>
+      </p>
+      <p><strong>Node.js · Slack Bolt SDK · DeepSeek AI</strong></p>
+      <p>AI-powered Slack bot with intelligent chat, channel summarization, and slash commands. Ready to deploy — with custom development available.</p>
+    </td>
+    <td width="50%">
       <h3 align="center">Nalakath Holdings V2</h3>
       <p align="center">
         <a href="https://github.com/mishel-0/Nalakath-holdings-V2" target="_blank">
@@ -71,17 +84,7 @@ I'm a **Full-Stack Developer** passionate about building **AI-powered applicatio
         </a>
       </p>
       <p><strong>Next.js 15 · Firebase · Genkit AI</strong></p>
-      <p>Premium iOS-style ERP & accounting system for multi-division holdings. AI-driven financial insights, GST invoicing, role-based dashboards.</p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Omnia AI</h3>
-      <p align="center">
-        <a href="https://github.com/mishel-0/Omnia-AI" target="_blank">
-          <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github" />
-        </a>
-      </p>
-      <p><strong>Next.js 15 · Supabase · Deep Learning</strong></p>
-      <p>AI-powered early detection for lung cancer & skin cancer. Real-time image analysis leveraging the Aaria Neural Engine.</p>
+      <p>Enterprise ERP & accounting system with AI-driven insights, GST invoicing, and role-based dashboards.</p>
     </td>
   </tr>
   <tr>
@@ -93,17 +96,17 @@ I'm a **Full-Stack Developer** passionate about building **AI-powered applicatio
         </a>
       </p>
       <p><strong>Node.js · Telegram API · DeepSeek R1</strong></p>
-      <p>Autonomous 24/7 SRE agent monitoring uptime, analyzing performance, and generating AI health reports via Telegram.</p>
+      <p>24/7 AI monitoring agent generating intelligent diagnostics — architecture adaptable to Slack.</p>
     </td>
     <td width="50%">
-      <h3 align="center">Oval Palace Resort</h3>
+      <h3 align="center">Omnia AI</h3>
       <p align="center">
-        <a href="https://github.com/mishel-0/oval-palace" target="_blank">
+        <a href="https://github.com/mishel-0/Omnia-AI" target="_blank">
           <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github" />
         </a>
       </p>
-      <p><strong>HTML · CSS · JavaScript · Vercel</strong></p>
-      <p>Premium 7-page static resort website with responsive design, Lucide icons, Web3Forms, and SEO optimization.</p>
+      <p><strong>Next.js 15 · Supabase · Deep Learning</strong></p>
+      <p>AI-powered early detection for lung cancer & skin cancer with real-time image analysis.</p>
     </td>
   </tr>
 </table>
